@@ -8,3 +8,4 @@ La planta se trata de una serie de filtros pasabajos en cascada implementados co
 
 La placa es capaz de realizar una identificación de la planta a partir de un escalón a su entrada y enviar los datos en tiempo real a MATLAB para su procesamiento de datos y posterior modelado a partir de un modelo de primer orden. 
 
+<img src="https://github.com/kevingiribuela/ControladorPID/blob/main/placa2.jpg?raw=true">
